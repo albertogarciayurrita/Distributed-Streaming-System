@@ -58,6 +58,6 @@ The architecture will be refined as the project progresses.
 
 ## 📄 Documentation
 See all the documentation of the project here: 
--[Architecture](./docs/architecture.md)
--[Decisions](./docs/decisions.md)
--[Roadmap](./docs/roadmap.md)
+- [Architecture](./docs/architecture.md)
+- [Decisions](./docs/decisions.md)
+- [Roadmap](./docs/roadmap.md)
