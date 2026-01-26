@@ -48,6 +48,16 @@ The architecture will be refined as the project progresses.
 - Package and path issues resolved
 - Repository located outside of OneDrive to avoid conflicts with Git
 
+---
+
 ## 📚 Notes
 - The project is being developed progressively, combining theoretical and practical learning.
 - Documentation will be expanded as important design decisions are made.
+
+---
+
+## 📄 Documentation
+See all the documentation of the project here: 
+-[Architecture](./docs/architecture.md)
+-[Decisions](./docs/decisions.md)
+-[Roadmap](./docs/roadmap.md)
